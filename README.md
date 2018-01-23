@@ -1,2 +1,11 @@
-# my-token-70-f-9-e-92-d-ico
-My Token 70F9E92D ICO Smart Contract
+# My Token 70F9E92D ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token 70F9E92D
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
